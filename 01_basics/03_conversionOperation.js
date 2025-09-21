@@ -12,7 +12,7 @@
 let value = 3
 let negValue = -value
 
-console.log(negValue);
+// console.log(negValue);
 
 
 // console.log(2+2)
@@ -25,11 +25,27 @@ console.log(negValue);
 let str1 = "Hamza"
 let str2 = " Razzaq"
 
-let str3 = str1+str2
+// let str3 = str1+str2
 
-console.log(str3)
+// console.log(str3)
+
+// console.log("1" + 2 + 2)
+// console.log(1 + 2 + "2");
+
+console.log(+true);
+console.log(true);
+console.log(+"");
 
 
+
+
+
+
+// let gameCounter = 100
+// gameCounter++;
+// console.log(gameCounter);
+// ++gameCounter;
+// console.log(gameCounter);
 
 
 
