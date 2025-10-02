@@ -3,7 +3,7 @@
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
 
 const score = 100
-const scoreValue = 100.3
+const scoreValue = 100.87
 
 const isLoggedIn = false
 const outsideTemp = null
@@ -22,7 +22,7 @@ console.log(id === anotherId);
 
 // Array, Objects, Functions
 
-const heros = ["shaktiman", "naagraj", "doga"];
+const heros = ["Ironman", "Superman", "Batman"];
 let myObj = {
     name: "hitesh",
     age: 22,
